@@ -1,4 +1,3 @@
-# Gesture-Based-Computer-Control
 # GestureBasedComputerControl
 
 SUMMARY -
